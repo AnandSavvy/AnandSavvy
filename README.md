@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anand Naidu</h1>
 <h3 align="center">A passionate Python programmer with DataScience</h3>
 
+<img align="right" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandsavvy&label=Profile%20views&color=0e75b6&style=flat" alt="anandsavvy" /> </p>
 
 - 🔭 I’m currently working on **Python DataScience**
