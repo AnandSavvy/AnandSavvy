@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advanced Machine Learning**
 
-- 👨‍💻 All of my projects are available at [anand.nayudu@outlook.com](anand.nayudu@outlook.com)
+- 👨‍💻 All of my projects are available at [https://github.com/AnandSavvy?tab=repositories](https://github.com/AnandSavvy?tab=repositories)
 
 - 💬 Ask me about **Python, Data Analytics & Visualizations**
 
